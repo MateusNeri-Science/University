@@ -1,4 +1,4 @@
-# Repositório de Conteúdo de Programação da Universidade
+# Conteúdo de Programação da Universidade
 
 Bem-vindo ao meu repositório de programação da universidade! Este repositório é um espaço dedicado a armazenar todo o conteúdo relacionado à programação que aprendi durante o curso de ciência da computação. Aqui você encontrará uma variedade de projetos, exercícios, anotações e recursos que refletem o meu progresso e aprendizado em várias disciplinas de programação.
 
